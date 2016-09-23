@@ -1,0 +1,39 @@
+{
+  "name": "christmas-balls",
+  "version": "0.0.1",
+  "description": "This is the Christmas Light Balls site repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Sither",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "autoprefixer": "^6.3.7",
+    "babel-eslint": "^6.1.2",
+    "babel-plugin-syntax-async-functions": "^6.8.0",
+    "babel-plugin-transform-async-to-generator": "^6.8.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "bootstrap": "^3.3.7",
+    "bootstrap-datepicker": "^1.6.1",
+    "bootstrap-sass": "^3.3.7",
+    "browser": "github:tjbenton/browser",
+    "css-mqpacker": "^4.0.1",
+    "cssnano": "^3.7.3",
+    "eslint": "^3.1.1",
+    "eslint-plugin-babel": "^3.3.0",
+    "fly": "^1.3.1",
+    "fly-babel": "^0.8.0",
+    "fly-esnext": "^1.0.1",
+    "fly-imagemin": "github:tjbenton/fly-imagemin",
+    "fly-jade": "github:tjbenton/fly-jade",
+    "fly-postcss": "github:postcss/fly-postcss",
+    "fly-sass": "^1.0.0",
+    "fly-uglify": "^1.0.0",
+    "jquery": "2.2.3",
+    "modernizr": "^3.3.1",
+    "scss-color": "github:tjbenton/scss-color"
+  }
+}
